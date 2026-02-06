@@ -2,7 +2,7 @@
 
 This is a template repo for creating a modular Ominity API package that plugs into `@ominity/api-typescript`.
 
-See `.module/RENAME_CHECKLIST.md` for the exact rename steps.
+See `RENAME_CHECKLIST.md` for the exact rename steps.
 
 ## What to Rename
 
